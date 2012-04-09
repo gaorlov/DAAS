@@ -1,0 +1,916 @@
+[Workspace Header]
+Version = 900
+Pathname = "DAAS3010.cws"
+CVI Dir = "/c/program files/national instruments/cvi90"
+CVI Shared Dir = "/C/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI90"
+CVI Pub Global Dir = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files/IVI Foundation/VISA/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "DAAS3010.prj"
+Drag Bar Left = 230
+Window Top = 33
+Window Left = 2
+Window Bottom = 744
+Window Right = 1016
+Maximized = True
+Maximized Children = True
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 2
+Window Confinement Region Enabled = True
+MainColumnWidth = 211
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 900
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "Acqcrv.c"
+File Type = "CSource"
+Disk Date = 3294245160
+In Projects = "1,"
+Window Top = 25
+Window Left = 6
+Window Z-Order = 2
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,349,687,1,0,"
+
+[File 0002]
+Path = "Acqchan.c"
+File Type = "CSource"
+Disk Date = 3312846071
+In Projects = "1,"
+Window Z-Order = 1
+Source Window State = "1,0,0,0,0,0,0,0,0,176,0,0,0,0,0,70,0,0,0,0,0,0,0,0,"
+
+[File 0003]
+Path = "Acqchan.h"
+File Type = "Include"
+Disk Date = 3294244424
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0004]
+Path = "Acqchanu.h"
+File Type = "Include"
+Disk Date = 3266315575
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0005]
+Path = "Acqchanu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3266315575
+In Projects = "1,"
+
+[File 0006]
+Path = "Acqcrv.h"
+File Type = "Include"
+Disk Date = 3269345262
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0007]
+Path = "Acqcrvu.h"
+File Type = "Include"
+Disk Date = 3266314257
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0008]
+Path = "Acqcrvu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3270044965
+In Projects = "1,"
+
+[File 0009]
+Path = "acquire.c"
+File Type = "CSource"
+Disk Date = 3312921686
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0010]
+Path = "Acquire.h"
+File Type = "Include"
+Disk Date = 3265039288
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0011]
+Path = "Acquireu.h"
+File Type = "Include"
+Disk Date = 3312844364
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0012]
+Path = "Acquireu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3312922033
+In Projects = "1,"
+
+[File 0013]
+Path = "cbw.h"
+File Type = "Include"
+Disk Date = 3243598896
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0014]
+Path = "/c/Program Files/Measurement Computing/DAQ/cbw32.dll"
+File Type = "DLL"
+Disk Date = 3311008388
+In Projects = "1,"
+
+[File 0015]
+Path = "/c/Program Files/Measurement Computing/DAQ/C/cbw32.lib"
+File Type = "Library"
+Disk Date = 3311008384
+In Projects = "1,"
+
+[File 0016]
+Path = "chanfnc.c"
+File Type = "CSource"
+Disk Date = 3267696014
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0017]
+Path = "Chanfnc.h"
+File Type = "Include"
+Disk Date = 2880840096
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0018]
+Path = "Chanfncu.h"
+File Type = "Include"
+Disk Date = 2880912932
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0019]
+Path = "Chanfncu.uir"
+File Type = "User Interface Resource"
+Disk Date = 2880913720
+In Projects = "1,"
+
+[File 0020]
+Path = "changen.c"
+File Type = "CSource"
+Disk Date = 3267696014
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0021]
+Path = "Changen.h"
+File Type = "Include"
+Disk Date = 2880813028
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0022]
+Path = "Changenu.h"
+File Type = "Include"
+Disk Date = 2880827062
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0023]
+Path = "Changenu.uir"
+File Type = "User Interface Resource"
+Disk Date = 2880827322
+In Projects = "1,"
+
+[File 0024]
+Path = "Channel.c"
+File Type = "CSource"
+Disk Date = 3269331869
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0025]
+Path = "Channel.h"
+File Type = "Include"
+Disk Date = 2892933992
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0026]
+Path = "Channelu.h"
+File Type = "Include"
+Disk Date = 2892916420
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0027]
+Path = "Channelu.uir"
+File Type = "User Interface Resource"
+Disk Date = 2892916420
+In Projects = "1,"
+
+[File 0028]
+Path = "chanops.c"
+File Type = "CSource"
+Disk Date = 3267696014
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0029]
+Path = "Chanops.h"
+File Type = "Include"
+Disk Date = 2880916508
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0030]
+Path = "Chanopsu.h"
+File Type = "Include"
+Disk Date = 2880920122
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0031]
+Path = "Chanopsu.uir"
+File Type = "User Interface Resource"
+Disk Date = 2880920122
+In Projects = "1,"
+
+[File 0032]
+Path = "curve.c"
+File Type = "CSource"
+Disk Date = 3294244424
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0033]
+Path = "Curve.h"
+File Type = "Include"
+Disk Date = 3269430280
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0034]
+Path = "curveop.c"
+File Type = "CSource"
+Disk Date = 3269430518
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0035]
+Path = "Curveop.h"
+File Type = "Include"
+Disk Date = 2881714018
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0036]
+Path = "Curveopu.h"
+File Type = "Include"
+Disk Date = 2882983234
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0037]
+Path = "Curveopu.uir"
+File Type = "User Interface Resource"
+Disk Date = 2882983234
+In Projects = "1,"
+
+[File 0038]
+Path = "Curveu.h"
+File Type = "Include"
+Disk Date = 3274452991
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0039]
+Path = "Curveu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3274452991
+In Projects = "1,"
+
+[File 0040]
+Path = "DAAS3010.c"
+File Type = "CSource"
+Disk Date = 3277225794
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0041]
+Path = "DAS-1602.c"
+File Type = "CSource"
+Disk Date = 3300216923
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0042]
+Path = "DAS-1602.h"
+File Type = "Include"
+Disk Date = 3269002960
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0043]
+Path = "DAS-1602u.h"
+File Type = "Include"
+Disk Date = 3269438324
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0044]
+Path = "DAS-1602u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3269438324
+In Projects = "1,"
+
+[File 0045]
+Path = "DAS-6036.c"
+File Type = "CSource"
+Disk Date = 3294699526
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0046]
+Path = "DAS-6036.h"
+File Type = "Include"
+Disk Date = 3268640407
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0047]
+Path = "DAS-6036u.h"
+File Type = "Include"
+Disk Date = 3294704433
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0048]
+Path = "DAS-6036u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3294704432
+In Projects = "1,"
+
+[File 0049]
+Path = "DDA08.c"
+File Type = "CSource"
+Disk Date = 3281712605
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0050]
+Path = "DDA08.h"
+File Type = "Include"
+Disk Date = 3269010371
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0051]
+Path = "DDA08u.h"
+File Type = "Include"
+Disk Date = 3269435665
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0052]
+Path = "DDA08u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3269435665
+In Projects = "1,"
+
+[File 0053]
+Path = "digitalSource.c"
+File Type = "CSource"
+Disk Date = 3281713629
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0054]
+Path = "digitalSource.h"
+File Type = "Include"
+Disk Date = 3294673517
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0055]
+Path = "digitalSourceu.h"
+File Type = "Include"
+Disk Date = 3313172771
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0056]
+Path = "digitalSourceu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3313172771
+In Projects = "1,"
+
+[File 0057]
+Path = "gpibio.c"
+File Type = "CSource"
+Disk Date = 3312912536
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0058]
+Path = "gpibio.h"
+File Type = "Include"
+Disk Date = 3267612927
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0059]
+Path = "Gpibiou.h"
+File Type = "Include"
+Disk Date = 3266313427
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0060]
+Path = "Gpibiou.uir"
+File Type = "User Interface Resource"
+Disk Date = 3266313620
+In Projects = "1,"
+
+[File 0061]
+Path = "graph.c"
+File Type = "CSource"
+Disk Date = 3312916647
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0062]
+Path = "Graph.h"
+File Type = "Include"
+Disk Date = 3269337640
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0063]
+Path = "Graphu.h"
+File Type = "Include"
+Disk Date = 3313438432
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0064]
+Path = "Graphu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3313438432
+In Projects = "1,"
+
+[File 0065]
+Path = "HP33120A.c"
+File Type = "CSource"
+Disk Date = 3323437834
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0066]
+Path = "HP33120A.h"
+File Type = "Include"
+Disk Date = 3267005501
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0067]
+Path = "HP33120Au.h"
+File Type = "Include"
+Disk Date = 3267011231
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0068]
+Path = "HP33120Au.uir"
+File Type = "User Interface Resource"
+Disk Date = 3267078947
+In Projects = "1,"
+
+[File 0069]
+Path = "HP4156.c"
+File Type = "CSource"
+Disk Date = 3270133459
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0070]
+Path = "HP4156.h"
+File Type = "Include"
+Disk Date = 3269439749
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0071]
+Path = "HP4156u.h"
+File Type = "Include"
+Disk Date = 3270024269
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0072]
+Path = "HP4156u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3270029787
+In Projects = "1,"
+
+[File 0073]
+Path = "itc4.c"
+File Type = "CSource"
+Disk Date = 3315333353
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0074]
+Path = "itc4.h"
+File Type = "Include"
+Disk Date = 3268123213
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0075]
+Path = "ITC4u.h"
+File Type = "Include"
+Disk Date = 3315326333
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0076]
+Path = "ITC4u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3315332616
+In Projects = "1,"
+
+[File 0077]
+Path = "K2000.c"
+File Type = "CSource"
+Disk Date = 3280953336
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0078]
+Path = "K2000.h"
+File Type = "Include"
+Disk Date = 2888367738
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0079]
+Path = "K2000u.h"
+File Type = "Include"
+Disk Date = 3269327828
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0080]
+Path = "K2000u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3269327828
+In Projects = "1,"
+
+[File 0081]
+Path = "K213.c"
+File Type = "CSource"
+Disk Date = 3270123886
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0082]
+Path = "K213.h"
+File Type = "Include"
+Disk Date = 2893288144
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0083]
+Path = "K213u.h"
+File Type = "Include"
+Disk Date = 3267620947
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0084]
+Path = "K213u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3269358896
+In Projects = "1,"
+
+[File 0085]
+Path = "K236.c"
+File Type = "CSource"
+Disk Date = 3270041086
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0086]
+Path = "K236.h"
+File Type = "Include"
+Disk Date = 2882751364
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0087]
+Path = "K236u.h"
+File Type = "Include"
+Disk Date = 3269327907
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0088]
+Path = "K236u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3269327907
+In Projects = "1,"
+
+[File 0089]
+Path = "List.c"
+File Type = "CSource"
+Disk Date = 3268987958
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0090]
+Path = "List.h"
+File Type = "Include"
+Disk Date = 2881013434
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0091]
+Path = "Listu.h"
+File Type = "Include"
+Disk Date = 2880758668
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0092]
+Path = "Listu.uir"
+File Type = "User Interface Resource"
+Disk Date = 2881791936
+In Projects = "1,"
+
+[File 0093]
+Path = "LS340.c"
+File Type = "CSource"
+Disk Date = 3270040969
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0094]
+Path = "LS340.h"
+File Type = "Include"
+Disk Date = 3267186244
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0095]
+Path = "LS340u.h"
+File Type = "Include"
+Disk Date = 3267529239
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0096]
+Path = "LS340u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3267529247
+In Projects = "1,"
+
+[File 0097]
+Path = "MCCdevices.c"
+File Type = "CSource"
+Disk Date = 3314645688
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0098]
+Path = "MCCdevices.h"
+File Type = "Include"
+Disk Date = 3314039651
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0099]
+Path = "rs232.c"
+File Type = "CSource"
+Disk Date = 3314824244
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0100]
+Path = "rs232u.h"
+File Type = "Include"
+Disk Date = 3268138462
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0101]
+Path = "rs232u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3268138462
+In Projects = "1,"
+
+[File 0102]
+Path = "rs232util.h"
+File Type = "Include"
+Disk Date = 3269952111
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0103]
+Path = "RUO_HIGH.H"
+File Type = "Include"
+Disk Date = 2894397106
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0104]
+Path = "RUO_LOW.H"
+File Type = "Include"
+Disk Date = 2894396288
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0105]
+Path = "Source.c"
+File Type = "CSource"
+Disk Date = 3314817675
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0106]
+Path = "Source.h"
+File Type = "Include"
+Disk Date = 3270138092
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0107]
+Path = "sourceu.h"
+File Type = "Include"
+Disk Date = 3270118029
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0108]
+Path = "sourceu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3281371823
+In Projects = "1,"
+
+[File 0109]
+Path = "Sr830.c"
+File Type = "CSource"
+Disk Date = 3314038461
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0110]
+Path = "Sr830.h"
+File Type = "Include"
+Disk Date = 2882568270
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0111]
+Path = "Sr830u.h"
+File Type = "Include"
+Disk Date = 3274372569
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0112]
+Path = "Sr830u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3274372568
+In Projects = "1,"
+
+[File 0113]
+Path = "Sr844.c"
+File Type = "CSource"
+Disk Date = 3270040954
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0114]
+Path = "Sr844.h"
+File Type = "Include"
+Disk Date = 3265118371
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0115]
+Path = "sr844u.h"
+File Type = "Include"
+Disk Date = 3269978050
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0116]
+Path = "sr844u.uir"
+File Type = "User Interface Resource"
+Disk Date = 3269978050
+In Projects = "1,"
+
+[File 0117]
+Path = "USB-1208LSu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3313172771
+In Projects = "1,"
+
+[File 0118]
+Path = "USB-PMD1208LS.c"
+File Type = "CSource"
+Disk Date = 3314218615
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0119]
+Path = "USB-PMD1208LS.h"
+File Type = "Include"
+Disk Date = 3269614904
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0120]
+Path = "util.c"
+File Type = "CSource"
+Disk Date = 3280954078
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0121]
+Path = "Util.h"
+File Type = "Include"
+Disk Date = 3269252280
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0122]
+Path = "utilu.h"
+File Type = "Include"
+Disk Date = 3313173301
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0123]
+Path = "utilu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3313173301
+In Projects = "1,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[DLLs Used By Executable 0001]
+DLL 0001 = "/c/Program Files/Measurement Computing/DAQ/cbw32.dll"
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+

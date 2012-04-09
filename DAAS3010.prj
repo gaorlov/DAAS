@@ -1,0 +1,1530 @@
+[Project Header]
+Version = 900
+Pathname = "/c/DAAS3012/DAAS3010.prj"
+Project Label = "DAAS3012"
+CVI Dir = "/c/program files/national instruments/cvi90"
+CVI Shared Dir = "/C/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI90"
+CVI Pub Global Dir = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Files = 123
+Target Type = "Executable"
+Flags = 16
+Copied From Locked InstrDrv Directory = False
+Copied from VXIPNP Directory = False
+Locked InstrDrv Name = ""
+Don't Display Deploy InstrDrv Dialog = False
+
+[File 0001]
+File Type = "CSource"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqchan.c"
+Path = "/c/DAAS3012/Acqchan.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0002]
+File Type = "Include"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqchan.h"
+Path = "/c/DAAS3012/Acqchan.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0003]
+File Type = "Include"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqchanu.h"
+Path = "/c/DAAS3012/Acqchanu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0004]
+File Type = "User Interface Resource"
+Res Id = 4
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqchanu.uir"
+Path = "/c/DAAS3012/Acqchanu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0005]
+File Type = "CSource"
+Res Id = 5
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqcrv.c"
+Path = "/c/DAAS3012/Acqcrv.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0006]
+File Type = "Include"
+Res Id = 6
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqcrv.h"
+Path = "/c/DAAS3012/Acqcrv.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0007]
+File Type = "Include"
+Res Id = 7
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqcrvu.h"
+Path = "/c/DAAS3012/Acqcrvu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0008]
+File Type = "User Interface Resource"
+Res Id = 8
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acqcrvu.uir"
+Path = "/c/DAAS3012/Acqcrvu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0009]
+File Type = "CSource"
+Res Id = 9
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "acquire.c"
+Path = "/c/DAAS3012/acquire.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0010]
+File Type = "Include"
+Res Id = 10
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acquire.h"
+Path = "/c/DAAS3012/Acquire.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0011]
+File Type = "Include"
+Res Id = 11
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acquireu.h"
+Path = "/c/DAAS3012/Acquireu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0012]
+File Type = "User Interface Resource"
+Res Id = 12
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Acquireu.uir"
+Path = "/c/DAAS3012/Acquireu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0013]
+File Type = "Include"
+Res Id = 13
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "cbw.h"
+Path = "/c/DAAS3012/cbw.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0014]
+File Type = "DLL"
+Res Id = 14
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "../Program Files/Measurement Computing/DAQ/cbw32.dll"
+Path = "/c/Program Files/Measurement Computing/DAQ/cbw32.dll"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0015]
+File Type = "Library"
+Res Id = 15
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "../Program Files/Measurement Computing/DAQ/C/cbw32.lib"
+Path = "/c/Program Files/Measurement Computing/DAQ/C/cbw32.lib"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0016]
+File Type = "CSource"
+Res Id = 16
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "chanfnc.c"
+Path = "/c/DAAS3012/chanfnc.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0017]
+File Type = "Include"
+Res Id = 17
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Chanfnc.h"
+Path = "/c/DAAS3012/Chanfnc.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0018]
+File Type = "Include"
+Res Id = 18
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Chanfncu.h"
+Path = "/c/DAAS3012/Chanfncu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0019]
+File Type = "User Interface Resource"
+Res Id = 19
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Chanfncu.uir"
+Path = "/c/DAAS3012/Chanfncu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0020]
+File Type = "CSource"
+Res Id = 20
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "changen.c"
+Path = "/c/DAAS3012/changen.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0021]
+File Type = "Include"
+Res Id = 21
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Changen.h"
+Path = "/c/DAAS3012/Changen.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0022]
+File Type = "Include"
+Res Id = 22
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Changenu.h"
+Path = "/c/DAAS3012/Changenu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0023]
+File Type = "User Interface Resource"
+Res Id = 23
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Changenu.uir"
+Path = "/c/DAAS3012/Changenu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0024]
+File Type = "CSource"
+Res Id = 24
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Channel.c"
+Path = "/c/DAAS3012/Channel.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0025]
+File Type = "Include"
+Res Id = 25
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Channel.h"
+Path = "/c/DAAS3012/Channel.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0026]
+File Type = "Include"
+Res Id = 26
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Channelu.h"
+Path = "/c/DAAS3012/Channelu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0027]
+File Type = "User Interface Resource"
+Res Id = 27
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Channelu.uir"
+Path = "/c/DAAS3012/Channelu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0028]
+File Type = "CSource"
+Res Id = 28
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "chanops.c"
+Path = "/c/DAAS3012/chanops.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0029]
+File Type = "Include"
+Res Id = 29
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Chanops.h"
+Path = "/c/DAAS3012/Chanops.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0030]
+File Type = "Include"
+Res Id = 30
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Chanopsu.h"
+Path = "/c/DAAS3012/Chanopsu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0031]
+File Type = "User Interface Resource"
+Res Id = 31
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Chanopsu.uir"
+Path = "/c/DAAS3012/Chanopsu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0032]
+File Type = "CSource"
+Res Id = 32
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "curve.c"
+Path = "/c/DAAS3012/curve.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0033]
+File Type = "Include"
+Res Id = 33
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Curve.h"
+Path = "/c/DAAS3012/Curve.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0034]
+File Type = "CSource"
+Res Id = 34
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "curveop.c"
+Path = "/c/DAAS3012/curveop.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0035]
+File Type = "Include"
+Res Id = 35
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Curveop.h"
+Path = "/c/DAAS3012/Curveop.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0036]
+File Type = "Include"
+Res Id = 36
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Curveopu.h"
+Path = "/c/DAAS3012/Curveopu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0037]
+File Type = "User Interface Resource"
+Res Id = 37
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Curveopu.uir"
+Path = "/c/DAAS3012/Curveopu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0038]
+File Type = "Include"
+Res Id = 38
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Curveu.h"
+Path = "/c/DAAS3012/Curveu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0039]
+File Type = "User Interface Resource"
+Res Id = 39
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Curveu.uir"
+Path = "/c/DAAS3012/Curveu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0040]
+File Type = "CSource"
+Res Id = 40
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAAS3010.c"
+Path = "/c/DAAS3012/DAAS3010.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0041]
+File Type = "CSource"
+Res Id = 41
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-1602.c"
+Path = "/c/DAAS3012/DAS-1602.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0042]
+File Type = "Include"
+Res Id = 42
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-1602.h"
+Path = "/c/DAAS3012/DAS-1602.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0043]
+File Type = "Include"
+Res Id = 43
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-1602u.h"
+Path = "/c/DAAS3012/DAS-1602u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0044]
+File Type = "User Interface Resource"
+Res Id = 44
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-1602u.uir"
+Path = "/c/DAAS3012/DAS-1602u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0045]
+File Type = "CSource"
+Res Id = 45
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-6036.c"
+Path = "/c/DAAS3012/DAS-6036.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0046]
+File Type = "Include"
+Res Id = 46
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-6036.h"
+Path = "/c/DAAS3012/DAS-6036.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0047]
+File Type = "Include"
+Res Id = 47
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-6036u.h"
+Path = "/c/DAAS3012/DAS-6036u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0048]
+File Type = "User Interface Resource"
+Res Id = 48
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DAS-6036u.uir"
+Path = "/c/DAAS3012/DAS-6036u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0049]
+File Type = "CSource"
+Res Id = 49
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DDA08.c"
+Path = "/c/DAAS3012/DDA08.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0050]
+File Type = "Include"
+Res Id = 50
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DDA08.h"
+Path = "/c/DAAS3012/DDA08.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0051]
+File Type = "Include"
+Res Id = 51
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DDA08u.h"
+Path = "/c/DAAS3012/DDA08u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0052]
+File Type = "User Interface Resource"
+Res Id = 52
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "DDA08u.uir"
+Path = "/c/DAAS3012/DDA08u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0053]
+File Type = "CSource"
+Res Id = 53
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "digitalSource.c"
+Path = "/c/DAAS3012/digitalSource.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0054]
+File Type = "Include"
+Res Id = 54
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "digitalSource.h"
+Path = "/c/DAAS3012/digitalSource.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0055]
+File Type = "Include"
+Res Id = 55
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "digitalSourceu.h"
+Path = "/c/DAAS3012/digitalSourceu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0056]
+File Type = "User Interface Resource"
+Res Id = 56
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "digitalSourceu.uir"
+Path = "/c/DAAS3012/digitalSourceu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0057]
+File Type = "CSource"
+Res Id = 57
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "gpibio.c"
+Path = "/c/DAAS3012/gpibio.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0058]
+File Type = "Include"
+Res Id = 58
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "gpibio.h"
+Path = "/c/DAAS3012/gpibio.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0059]
+File Type = "Include"
+Res Id = 59
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Gpibiou.h"
+Path = "/c/DAAS3012/Gpibiou.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0060]
+File Type = "User Interface Resource"
+Res Id = 60
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Gpibiou.uir"
+Path = "/c/DAAS3012/Gpibiou.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0061]
+File Type = "CSource"
+Res Id = 61
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "graph.c"
+Path = "/c/DAAS3012/graph.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0062]
+File Type = "Include"
+Res Id = 62
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Graph.h"
+Path = "/c/DAAS3012/Graph.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0063]
+File Type = "Include"
+Res Id = 63
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Graphu.h"
+Path = "/c/DAAS3012/Graphu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0064]
+File Type = "User Interface Resource"
+Res Id = 64
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Graphu.uir"
+Path = "/c/DAAS3012/Graphu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0065]
+File Type = "CSource"
+Res Id = 65
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP33120A.c"
+Path = "/c/DAAS3012/HP33120A.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0066]
+File Type = "Include"
+Res Id = 66
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP33120A.h"
+Path = "/c/DAAS3012/HP33120A.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0067]
+File Type = "Include"
+Res Id = 67
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP33120Au.h"
+Path = "/c/DAAS3012/HP33120Au.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0068]
+File Type = "User Interface Resource"
+Res Id = 68
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP33120Au.uir"
+Path = "/c/DAAS3012/HP33120Au.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0069]
+File Type = "CSource"
+Res Id = 69
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP4156.c"
+Path = "/c/DAAS3012/HP4156.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0070]
+File Type = "Include"
+Res Id = 70
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP4156.h"
+Path = "/c/DAAS3012/HP4156.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0071]
+File Type = "Include"
+Res Id = 71
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP4156u.h"
+Path = "/c/DAAS3012/HP4156u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0072]
+File Type = "User Interface Resource"
+Res Id = 72
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "HP4156u.uir"
+Path = "/c/DAAS3012/HP4156u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0073]
+File Type = "CSource"
+Res Id = 73
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "itc4.c"
+Path = "/c/DAAS3012/itc4.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0074]
+File Type = "Include"
+Res Id = 74
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "itc4.h"
+Path = "/c/DAAS3012/itc4.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0075]
+File Type = "Include"
+Res Id = 75
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "ITC4u.h"
+Path = "/c/DAAS3012/ITC4u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0076]
+File Type = "User Interface Resource"
+Res Id = 76
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "ITC4u.uir"
+Path = "/c/DAAS3012/ITC4u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0077]
+File Type = "CSource"
+Res Id = 77
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K2000.c"
+Path = "/c/DAAS3012/K2000.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0078]
+File Type = "Include"
+Res Id = 78
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K2000.h"
+Path = "/c/DAAS3012/K2000.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0079]
+File Type = "Include"
+Res Id = 79
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K2000u.h"
+Path = "/c/DAAS3012/K2000u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0080]
+File Type = "User Interface Resource"
+Res Id = 80
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K2000u.uir"
+Path = "/c/DAAS3012/K2000u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0081]
+File Type = "CSource"
+Res Id = 81
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K213.c"
+Path = "/c/DAAS3012/K213.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0082]
+File Type = "Include"
+Res Id = 82
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K213.h"
+Path = "/c/DAAS3012/K213.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0083]
+File Type = "Include"
+Res Id = 83
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K213u.h"
+Path = "/c/DAAS3012/K213u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0084]
+File Type = "User Interface Resource"
+Res Id = 84
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K213u.uir"
+Path = "/c/DAAS3012/K213u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0085]
+File Type = "CSource"
+Res Id = 85
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K236.c"
+Path = "/c/DAAS3012/K236.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0086]
+File Type = "Include"
+Res Id = 86
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K236.h"
+Path = "/c/DAAS3012/K236.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0087]
+File Type = "Include"
+Res Id = 87
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K236u.h"
+Path = "/c/DAAS3012/K236u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0088]
+File Type = "User Interface Resource"
+Res Id = 88
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "K236u.uir"
+Path = "/c/DAAS3012/K236u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0089]
+File Type = "CSource"
+Res Id = 89
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "List.c"
+Path = "/c/DAAS3012/List.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0090]
+File Type = "Include"
+Res Id = 90
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "List.h"
+Path = "/c/DAAS3012/List.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0091]
+File Type = "Include"
+Res Id = 91
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Listu.h"
+Path = "/c/DAAS3012/Listu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0092]
+File Type = "User Interface Resource"
+Res Id = 92
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Listu.uir"
+Path = "/c/DAAS3012/Listu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0093]
+File Type = "CSource"
+Res Id = 93
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "LS340.c"
+Path = "/c/DAAS3012/LS340.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0094]
+File Type = "Include"
+Res Id = 94
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "LS340.h"
+Path = "/c/DAAS3012/LS340.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0095]
+File Type = "Include"
+Res Id = 95
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "LS340u.h"
+Path = "/c/DAAS3012/LS340u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0096]
+File Type = "User Interface Resource"
+Res Id = 96
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "LS340u.uir"
+Path = "/c/DAAS3012/LS340u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0097]
+File Type = "CSource"
+Res Id = 97
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "MCCdevices.c"
+Path = "/c/DAAS3012/MCCdevices.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0098]
+File Type = "Include"
+Res Id = 98
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "MCCdevices.h"
+Path = "/c/DAAS3012/MCCdevices.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0099]
+File Type = "CSource"
+Res Id = 99
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "rs232.c"
+Path = "/c/DAAS3012/rs232.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0100]
+File Type = "Include"
+Res Id = 100
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "rs232u.h"
+Path = "/c/DAAS3012/rs232u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0101]
+File Type = "User Interface Resource"
+Res Id = 101
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "rs232u.uir"
+Path = "/c/DAAS3012/rs232u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0102]
+File Type = "Include"
+Res Id = 102
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "rs232util.h"
+Path = "/c/DAAS3012/rs232util.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0103]
+File Type = "Include"
+Res Id = 103
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "RUO_HIGH.H"
+Path = "/c/DAAS3012/RUO_HIGH.H"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0104]
+File Type = "Include"
+Res Id = 104
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "RUO_LOW.H"
+Path = "/c/DAAS3012/RUO_LOW.H"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0105]
+File Type = "CSource"
+Res Id = 105
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Source.c"
+Path = "/c/DAAS3012/Source.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0106]
+File Type = "Include"
+Res Id = 106
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Source.h"
+Path = "/c/DAAS3012/Source.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0107]
+File Type = "Include"
+Res Id = 107
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "sourceu.h"
+Path = "/c/DAAS3012/sourceu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0108]
+File Type = "User Interface Resource"
+Res Id = 108
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "sourceu.uir"
+Path = "/c/DAAS3012/sourceu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0109]
+File Type = "CSource"
+Res Id = 109
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Sr830.c"
+Path = "/c/DAAS3012/Sr830.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0110]
+File Type = "Include"
+Res Id = 110
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Sr830.h"
+Path = "/c/DAAS3012/Sr830.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0111]
+File Type = "Include"
+Res Id = 111
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Sr830u.h"
+Path = "/c/DAAS3012/Sr830u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0112]
+File Type = "User Interface Resource"
+Res Id = 112
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Sr830u.uir"
+Path = "/c/DAAS3012/Sr830u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0113]
+File Type = "CSource"
+Res Id = 113
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Sr844.c"
+Path = "/c/DAAS3012/Sr844.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0114]
+File Type = "Include"
+Res Id = 114
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Sr844.h"
+Path = "/c/DAAS3012/Sr844.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0115]
+File Type = "Include"
+Res Id = 115
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "sr844u.h"
+Path = "/c/DAAS3012/sr844u.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0116]
+File Type = "User Interface Resource"
+Res Id = 116
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "sr844u.uir"
+Path = "/c/DAAS3012/sr844u.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0117]
+File Type = "User Interface Resource"
+Res Id = 117
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "USB-1208LSu.uir"
+Path = "/c/DAAS3012/USB-1208LSu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0118]
+File Type = "CSource"
+Res Id = 118
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "USB-PMD1208LS.c"
+Path = "/c/DAAS3012/USB-PMD1208LS.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0119]
+File Type = "Include"
+Res Id = 119
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "USB-PMD1208LS.h"
+Path = "/c/DAAS3012/USB-PMD1208LS.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0120]
+File Type = "CSource"
+Res Id = 120
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "util.c"
+Path = "/c/DAAS3012/util.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0121]
+File Type = "Include"
+Res Id = 121
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Util.h"
+Path = "/c/DAAS3012/Util.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0122]
+File Type = "Include"
+Res Id = 122
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "utilu.h"
+Path = "/c/DAAS3012/utilu.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0123]
+File Type = "User Interface Resource"
+Res Id = 123
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "utilu.uir"
+Path = "/c/DAAS3012/utilu.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[Folders]
+Instrument Files Folder Not Added Yet = True
+Folder 0 = "Source Files"
+Folder 1 = "Include Files"
+Folder 2 = "User Interface Files"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+O Option Compatible With 5.0 = False
+Enable C99 Extensions = False
+Uninitialized Locals Compile Warning = "Conservative"
+Precompile Prefix Header = False
+Prefix Header File = ""
+
+[Run Options]
+Stack Size = 100000
+Image Base Address = 4194304
+
+[Compiler Defines]
+Compiler Defines = ""
+
+[Include Paths]
+Include Path 1 Is Rel = False
+Include Path 1 = "/c/Program Files/Measurement Computing/DAQ/CWin"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "DAAS3014.exe"
+Executable File_Debug = "/c/DAAS3012/DAAS3014.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "DAAS3010.exe"
+Executable File_Release = "/c/DAAS3012/DAAS3010.exe"
+Executable File_Debug64 Is Rel = True
+Executable File_Debug64 Rel To = "Project"
+Executable File_Debug64 Rel Path = "DAAS3010.exe"
+Executable File_Debug64 = "/c/DAAS3012/DAAS3010.exe"
+Executable File_Release64 Is Rel = True
+Executable File_Release64 Rel To = "Project"
+Executable File_Release64 Rel Path = "DAAS3010.exe"
+Executable File_Release64 = "/c/DAAS3012/DAAS3010.exe"
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "DAAS30.ico"
+Icon File = "/c/DAAS3012/DAAS30.ico"
+Application Title = "DAAS 3.014-GPIB"
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "3,0,10,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "und"
+Company Name Ex = "%company"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Legal Copyright = "Copyright © und, 2007"
+Legal Copyright Ex = "Copyright © und, 2007"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Private Build = ""
+Private Build Ex = ""
+Product Name = "DAAS 3.010"
+Product Name Ex = "DAAS 3.010"
+Product Version = "3.010"
+Product Version Ex = "3.010"
+Special Build = ""
+Special Build Ex = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = True
+Generate Map File = True
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[Signing Info]
+Sign = False
+Sign Debug Build = False
+Store = ""
+Certificate = ""
+Timestamp URL = ""
+URL = ""
+
+[Manifest Info]
+Embed = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+
