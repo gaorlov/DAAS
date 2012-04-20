@@ -385,18 +385,13 @@ void graph_ReplotCurvesWithConv(graphPtr graph)
 	limit = (utilG.acq.status != ACQ_BUSY)? limit : limit - 1;
 	for(i = 0; i < limit; i++)
 	{
-		double **xArr, **yArr;
 		node = list_GetNode(graph->curves.list, i);
 		curve = node->item;
-		xArr = acqchan_MeasurementArray (curve->x->readings, graph->acqcurve.x->coeff, graph->x.conversion.val, curve->x->pts);
-		yArr = acqchan_MeasurementArray (curve->y->readings, graph->acqcurve.y->coeff, graph->y.conversion.val, curve->y->pts);
 		DeleteGraphPlot (graph->p, GRAPH_GRAPH, curve->plothandle, 0);
 		curve->plothandle = 
-			PlotXY (graph->p, GRAPH_GRAPH, *xArr, *yArr,
+			PlotXY (graph->p, GRAPH_GRAPH, curve->x->readings, curve->y->readings,
 			curve->pts, VAL_DOUBLE, VAL_DOUBLE, VAL_THIN_LINE, VAL_NO_POINT, VAL_SOLID,
 			graph->acqcurve.ptfreq, graph->acqcurve.color);
-		free(xArr);
-		free(yArr);
 	}
 }
 

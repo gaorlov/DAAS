@@ -176,15 +176,11 @@ void acqcurve_Plot (void *graphP, int panel, int control, acqcurvePtr acqcurve)
             pts = utilG.acq.pt - acqcurve->marker.offset;
             if (pts > 0) 
 			{
-				double **xArr = acqchan_MeasurementArray(acqcurve->x->channel->readings, acqcurve->x->coeff, graph->x.conversion.val, utilG.acq.pt);
-                double **yArr = acqchan_MeasurementArray(acqcurve->y->channel->readings, acqcurve->y->coeff, graph->y.conversion.val, utilG.acq.pt);
-				acqcurve->buffer[0] = PlotXY (panel, control, *xArr + acqcurve->marker.offset, *yArr + acqcurve->marker.offset,
+				acqcurve->buffer[0] = PlotXY (panel, control, acqcurve->x->channel->readings + acqcurve->marker.offset, cqcurve->y->channel->readings + acqcurve->marker.offset,
                                               pts, VAL_DOUBLE, VAL_DOUBLE,
                                               VAL_THIN_LINE, VAL_NO_POINT, VAL_SOLID,
                                               acqcurve->ptfreq, acqcurve->color);
                 acqcurve->bufferpts++;
-				free(xArr);
-				free(yArr);
             }
         }
     }

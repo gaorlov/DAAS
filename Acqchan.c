@@ -216,6 +216,7 @@ int  SelectAcqChanCallback(int panel, int control, int event, void *callbackData
                         SetCtrlAttribute (chan->p, ACQDATA_MEAS, ATTR_LEFT, acqchanL.sControl.left);
                     }
                 }
+
             }
             break;
         case EVENT_COMMIT:
@@ -632,12 +633,13 @@ void acqchan_AddGraph (acqchanPtr chan, void *item)
 void acqchan_DoMeasurement (acqchanPtr chan)
 {
     double meas;
-    if (!chan->newreading) chan->GetReading(chan);
-	chan->reading *= chan->coeff;
+    if (!chan->newreading)
+        chan->GetReading(chan);
+    chan->reading *= chan->coeff;
     //meas = acqchan_Measurement(chan->reading, chan->coeff, chan->conversion); WHY IS IT HERE????
-	meas = acqchan_Measurement(chan->reading, 1.0, chan->conversion);
+    meas = acqchan_Measurement(chan->reading, 1.0, chan->conversion);
     chan->channel->readings[utilG.acq.pt] = meas;
-	chan->channel->readings[utilG.acq.pt] = chan->reading;
+    chan->channel->readings[utilG.acq.pt] = chan->reading;
 }
 
 
